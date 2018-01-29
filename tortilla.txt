@@ -1,3 +1,2 @@
 huevos patata cebolla sal
-
-precio tortilla 1 euros.
+precio tortilla 1500 euros.
